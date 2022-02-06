@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - GTag
+  - Moon
+  - EndlessLann
+  - Square
+  - Square1
+  - Circle
+  - Circle1
+  - GreenZombie
+  - Weakness
+  - Ghosting
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BG
+    uniqueID: 2454026861
+    locked: 0
+  - name: Player
+    uniqueID: 1764137831
+    locked: 0
+  - name: Heartaches
+    uniqueID: 3815468003
+    locked: 0
+  - name: Heartaches1
+    uniqueID: 2065595163
+    locked: 0
+  - name: Heartaches2
+    uniqueID: 3291921957
+    locked: 0
